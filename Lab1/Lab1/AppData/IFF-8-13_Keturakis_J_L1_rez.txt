@@ -1,0 +1,77 @@
+-------------------------------------------------------------------------------------------------------------------
+|   Nr| Name             |Kill Count|     Money |Sha256 Hash                                                      |
+-------------------------------------------------------------------------------------------------------------------
+|   1.| Berget           |      199 |     946.3 | 196a048117bdace47d75fd9bce94c397c2fdbb206529509a14f88aabaa3e81f6|
+|   2.| Kayla            |       85 |    978.52 | 281ba735c36bfe9c5a8077ab0be2708076bdbd7dfaf549d08eda7283271e993c|
+|   3.| Phedra           |      177 |    607.74 | 6fa49b15491708699a14ac5f03eda044e12c214a4cba55f4329786b5823eeee4|
+|   4.| Kirbee           |       59 |    352.77 | 262c3276e3fc7144ed0bf1c6cbd7293c6499a49ebe73a83bed88f630f3e38036|
+|   5.| Nannie           |       41 |    162.99 | 481307e821a24b1744c73d71a41d4bb4c409818a79e4c1a60f276f1a1b8fdbbd|
+|   6.| Asia             |       29 |    345.38 | 08b219ebad5f8b04bee44fa342724e0e348d923006e0a1e679edfd86b6b2a97a|
+|   7.| Miquela          |      117 |    650.45 | 92ff5de453f807bda1cb179a5223b54237af4d69835c7d892a87bf0456a537a9|
+|   8.| Cristabel        |       76 |    866.97 | 2fd2bbcd373e165d010052e9f786563d50c08583b30df2dfa333f584bc29fc18|
+|   9.| Charissa         |       48 |    988.58 | 682e909ad47428abe8c4015ef1ed17f4ab4c83c5625ec3bce68b160a351593a6|
+|  10.| Rosabelle        |      181 |    639.89 | 8001b53653fd3a19fee4d85e9c05e3bb8bb486ce6874ac886dbcf465b03cde89|
+|  11.| Susette          |      124 |    464.21 | 5f9ea2a0287d8b284e66fe1181be62af9c802191dc8f776c4f6a1eef1a4892b8|
+|  12.| Jany             |       34 |    365.79 | 2cc9e0a71aa4dc2e64c7a97f7840bc170400a5292f487423495532e0ece870e1|
+|  13.| Dianemarie       |      126 |    319.34 | 3d8830f2aac08a0c770ca46649d83a6df9405483f7efe5098e7e284970a9c9be|
+|  14.| Nerta            |      165 |    546.78 | 7a42c1324739d954de583ab50a455b63f9de754f95c8b8d437a8b063b2ef4c87|
+|  15.| Chloris          |       11 |    584.33 | 4530c33d139eaa6833ee4d93a7c11f79e36e3e3ecb45a36e0bd28799cca77724|
+|  16.| Lory             |       37 |    879.81 | 5efb86d7ec544e867a225e321c43ca1f90271ddc271f37259af8ab10dd2f1685|
+|  17.| Tierney          |      176 |    133.47 | 20ccea7bfd5fdcc171607ba06037fd007c6283944d2155282eb66d66a19a3893|
+|  18.| Marti            |       10 |     830.9 | 118f18d09ac014259d7f8799b9b12f44e401c72813159bbea067530aa2fbb2cc|
+|  19.| Hyacinthe        |        3 |    135.87 | 6b7ba084ec8c6cedcfec55c26b01a31077ba02198ebbdf70710df77d4e37f285|
+|  20.| Linzy            |      167 |     782.2 | 16d06e307f93ae236d711034ade523fddf8086ef5e818886142086a4bbc2182b|
+|  21.| Quintina         |       87 |    406.35 | 27218022d8c4cef68a761acd98e43e7d3823f199b6b3750dde15187da6a2403b|
+|  22.| Odessa           |      187 |    970.45 | 010748c2927d14895f05f65b824db2e613cb7941f5cb544e7d3c02043fa4c37f|
+|  23.| Leona            |       27 |    103.41 | 81d2051215fe72101e2336f08de0d4727bf85bddcce99e9371c945e4e7339487|
+|  24.| Ronna            |       22 |    734.66 | 18f49a3219f1887712ff97dd1aa658aa755f2847cf3c9f1a29ec02856945147f|
+|  25.| Lizzie           |      129 |    195.17 | 49e5b6308d3f2c6b889b058270762c9a3e4db79650afc1f31fd53a573c248e0c|
+|  26.| Orelia           |       88 |     517.5 | 338b4b199e4a2919b249676e55e1264b929c3ff468a738d8eab212bb6f7f9c09|
+|  27.| Amii             |       71 |    541.49 | 100751c2603304773b86b7b70343d66e10f56b8b83ec60eae0e75f06b6ad8c30|
+|  28.| Kirbee           |       20 |    389.95 | 1ffc7adfb8c4e34ed532924e2dc4964fce7afa3185c922b9c68b5716cbf49ca8|
+|  29.| Juliane          |       16 |    543.08 | 740ad34fefd86a8453062afb2e25ce9e19f1d4090faa046211fac680e042e029|
+|  30.| Millie           |       29 |    854.07 | 0aff646c4be3cdac68b0024476fb75a33ce5ed1d1ecbaff4fda700370c3baf46|
+|  31.| Tabbatha         |       63 |    431.83 | 1b2fffcb9107c5bf7f442596fbb7e09698530daf4ae8357b842ac3dec619efc6|
+|  32.| Maisey           |      196 |    942.69 | 7c8c3f5aab1e69838c6ae3e31a5892d68a7029d450e80c8b5abf4331cd8903c5|
+|  33.| Ardys            |      200 |       650 | 3328ac76ef10cdfb64235af54a9e2c399c2bb624e97d65484599f5796173eac5|
+|  34.| Renae            |      140 |    844.28 | 561815c96d20ca7c6bca1a4d596995f383eea0b2001a269130811ebfc4df0961|
+|  35.| Nessie           |      178 |    159.91 | 1cff2df7a26afffeb608c5973ea181722e28d13361a1b0be7fee8b8214fab13c|
+-------------------------------------------------------------------------------------------------------------------
+Filtered results (beggining with numbers)
+-------------------------------------------------------------------------------------------------------------------
+|   1.| Odessa           |      187 |    970.45 | 010748c2927d14895f05f65b824db2e613cb7941f5cb544e7d3c02043fa4c37f|
+|   2.| Asia             |       29 |    345.38 | 08b219ebad5f8b04bee44fa342724e0e348d923006e0a1e679edfd86b6b2a97a|
+|   3.| Millie           |       29 |    854.07 | 0aff646c4be3cdac68b0024476fb75a33ce5ed1d1ecbaff4fda700370c3baf46|
+|   4.| Amii             |       71 |    541.49 | 100751c2603304773b86b7b70343d66e10f56b8b83ec60eae0e75f06b6ad8c30|
+|   5.| Marti            |       10 |     830.9 | 118f18d09ac014259d7f8799b9b12f44e401c72813159bbea067530aa2fbb2cc|
+|   6.| Linzy            |      167 |     782.2 | 16d06e307f93ae236d711034ade523fddf8086ef5e818886142086a4bbc2182b|
+|   7.| Ronna            |       22 |    734.66 | 18f49a3219f1887712ff97dd1aa658aa755f2847cf3c9f1a29ec02856945147f|
+|   8.| Berget           |      199 |     946.3 | 196a048117bdace47d75fd9bce94c397c2fdbb206529509a14f88aabaa3e81f6|
+|   9.| Tabbatha         |       63 |    431.83 | 1b2fffcb9107c5bf7f442596fbb7e09698530daf4ae8357b842ac3dec619efc6|
+|  10.| Nessie           |      178 |    159.91 | 1cff2df7a26afffeb608c5973ea181722e28d13361a1b0be7fee8b8214fab13c|
+|  11.| Kirbee           |       20 |    389.95 | 1ffc7adfb8c4e34ed532924e2dc4964fce7afa3185c922b9c68b5716cbf49ca8|
+|  12.| Tierney          |      176 |    133.47 | 20ccea7bfd5fdcc171607ba06037fd007c6283944d2155282eb66d66a19a3893|
+|  13.| Kirbee           |       59 |    352.77 | 262c3276e3fc7144ed0bf1c6cbd7293c6499a49ebe73a83bed88f630f3e38036|
+|  14.| Quintina         |       87 |    406.35 | 27218022d8c4cef68a761acd98e43e7d3823f199b6b3750dde15187da6a2403b|
+|  15.| Kayla            |       85 |    978.52 | 281ba735c36bfe9c5a8077ab0be2708076bdbd7dfaf549d08eda7283271e993c|
+|  16.| Jany             |       34 |    365.79 | 2cc9e0a71aa4dc2e64c7a97f7840bc170400a5292f487423495532e0ece870e1|
+|  17.| Cristabel        |       76 |    866.97 | 2fd2bbcd373e165d010052e9f786563d50c08583b30df2dfa333f584bc29fc18|
+|  18.| Ardys            |      200 |       650 | 3328ac76ef10cdfb64235af54a9e2c399c2bb624e97d65484599f5796173eac5|
+|  19.| Orelia           |       88 |     517.5 | 338b4b199e4a2919b249676e55e1264b929c3ff468a738d8eab212bb6f7f9c09|
+|  20.| Dianemarie       |      126 |    319.34 | 3d8830f2aac08a0c770ca46649d83a6df9405483f7efe5098e7e284970a9c9be|
+|  21.| Chloris          |       11 |    584.33 | 4530c33d139eaa6833ee4d93a7c11f79e36e3e3ecb45a36e0bd28799cca77724|
+|  22.| Nannie           |       41 |    162.99 | 481307e821a24b1744c73d71a41d4bb4c409818a79e4c1a60f276f1a1b8fdbbd|
+|  23.| Lizzie           |      129 |    195.17 | 49e5b6308d3f2c6b889b058270762c9a3e4db79650afc1f31fd53a573c248e0c|
+|  24.| Renae            |      140 |    844.28 | 561815c96d20ca7c6bca1a4d596995f383eea0b2001a269130811ebfc4df0961|
+|  25.| Lory             |       37 |    879.81 | 5efb86d7ec544e867a225e321c43ca1f90271ddc271f37259af8ab10dd2f1685|
+|  26.| Susette          |      124 |    464.21 | 5f9ea2a0287d8b284e66fe1181be62af9c802191dc8f776c4f6a1eef1a4892b8|
+|  27.| Charissa         |       48 |    988.58 | 682e909ad47428abe8c4015ef1ed17f4ab4c83c5625ec3bce68b160a351593a6|
+|  28.| Hyacinthe        |        3 |    135.87 | 6b7ba084ec8c6cedcfec55c26b01a31077ba02198ebbdf70710df77d4e37f285|
+|  29.| Phedra           |      177 |    607.74 | 6fa49b15491708699a14ac5f03eda044e12c214a4cba55f4329786b5823eeee4|
+|  30.| Juliane          |       16 |    543.08 | 740ad34fefd86a8453062afb2e25ce9e19f1d4090faa046211fac680e042e029|
+|  31.| Nerta            |      165 |    546.78 | 7a42c1324739d954de583ab50a455b63f9de754f95c8b8d437a8b063b2ef4c87|
+|  32.| Maisey           |      196 |    942.69 | 7c8c3f5aab1e69838c6ae3e31a5892d68a7029d450e80c8b5abf4331cd8903c5|
+|  33.| Rosabelle        |      181 |    639.89 | 8001b53653fd3a19fee4d85e9c05e3bb8bb486ce6874ac886dbcf465b03cde89|
+|  34.| Leona            |       27 |    103.41 | 81d2051215fe72101e2336f08de0d4727bf85bddcce99e9371c945e4e7339487|
+|  35.| Miquela          |      117 |    650.45 | 92ff5de453f807bda1cb179a5223b54237af4d69835c7d892a87bf0456a537a9|
+-------------------------------------------------------------------------------------------------------------------
